@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611226624933",
+    "project_id": "fltr-flash-chat",
+    "storage_bucket": "fltr-flash-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611226624933:android:2bedc2bb2eb0ac4f39be4c",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611226624933-oeli5ovsrrnga79na1qolt9lrhbratbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjomK2h4nntJbBKtN5ZuMc28K-2rcuhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611226624933-oeli5ovsrrnga79na1qolt9lrhbratbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
